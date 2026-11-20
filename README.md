@@ -31,4 +31,10 @@ Aprimorar minhas habilidades em programação.
 Aprender novas tecnologias.
 Construir aplicações úteis e criativas.
 
+## 🚀 Projetos em destaque
+
+### Controle de Estoque
+
+[🌐 Acessar o site](https://sgdavi488-cell.github.io/controle-estoque/) · [💻 Ver código-fonte no GitHub](https://github.com/sgdavi488-cell/controle-estoque)
+
 ⭐ Obrigado por visitar meu perfil!
