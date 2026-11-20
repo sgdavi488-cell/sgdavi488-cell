@@ -57,6 +57,13 @@ Projeto para organizar e acompanhar produtos de um estoque, com foco em praticid
 - 🌐 [Abrir aplicação](https://sgdavi488-cell.github.io/controle-estoque/)
 - 💻 [Ver repositório](https://github.com/sgdavi488-cell/controle-estoque)
 
+### 💰 Finance Control
+
+Painel financeiro para registrar entradas e despesas, acompanhar o saldo do mês e visualizar a movimentação em um só lugar.
+
+- 🌐 [Abrir aplicação](https://sgdavi488-cell.github.io/finance-control/)
+- 💻 [Ver repositório](https://github.com/sgdavi488-cell/finance-control)
+
 ### 🍽️ Cardápio Digital — Maison
 
 Um cardápio online para restaurantes, com categorias, busca, filtros, sacola interativa e preparação do pedido pelo WhatsApp.
