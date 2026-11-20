@@ -2,11 +2,11 @@
 
 <div align="center">
 
-# 👋 Fala! Eu sou o Davi
+# 👋 Oi! Eu sou Davi
 
-### 💻 Desenvolvedor em aprendizado | Curioso por tecnologia
+### 💻 Desenvolvedor em aprendizado | Interessado em tecnologia
 
-Gosto de aprender na prática, testar ideias e transformar projetos em algo que as pessoas realmente possam usar.
+Gosto de aprender na prática, testar ideias e transformar projetos em algo que as pessoas possam usar, Ou também se divertir.
 
 <br/>
 
@@ -20,8 +20,8 @@ Gosto de aprender na prática, testar ideias e transformar projetos em algo que 
 
 ## 🧑‍💻 Um pouco sobre mim
 
-- 🚀 Estou construindo minha jornada na programação, sempre aprendendo algo novo.
-- 🧩 Gosto de criar sites, aplicações e projetos com funcionalidades de verdade.
+- 🚀 Estou cursando programação e estudando online, sempre buscando algo novo.
+- 🧩 Tenho interesse em criar sites, que tenham funcionalidades.
 - 🔌 Tenho interesse em APIs, banco de dados, automação e robótica.
 - 🎮 Também curto tecnologia, jogos e desenvolvimento de experiências interativas.
 - ⚽ Fora do código, o futebol faz parte da minha rotina.
