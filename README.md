@@ -1,36 +1,28 @@
-<!-- Perfil do GitHub de sgdavi488-cell -->
+<!-- GitHub profile README -->
 
 <div align="center">
 
-# 👋 Oi! Eu sou Davi
+# Davi
 
-### 💻 Desenvolvedor em aprendizado | Interessado em tecnologia
+**Web development student | Building projects and learning by doing**
 
-Gosto de aprender na prática, testar ideias e transformar projetos em algo que as pessoas possam usar, Ou também se divertir.
-
-<br/>
-
-<img src="https://img.shields.io/badge/FOCO-Aprender%20e%20criar-16A085?style=for-the-badge" />
-<img src="https://img.shields.io/badge/BASE-Desenvolvimento%20Web-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LOCAL-Brasil-239B56?style=for-the-badge" />
+[English](README.md) · [Português](README.pt-BR.md)
 
 </div>
 
 ---
 
-## 🧑‍💻 Um pouco sobre mim
+## About
 
-- 🚀 Estou cursando programação e estudando online, sempre buscando algo novo.
-- 🧩 Tenho interesse em criar sites, que tenham funcionalidades.
-- 🔌 Tenho interesse em APIs, banco de dados, automação e robótica.
-- 🎮 Também curto tecnologia, jogos e desenvolvimento de experiências interativas.
-- ⚽ Fora do código, o futebol faz parte da minha rotina.
+I'm a programming student from Brazil. I use personal projects to practise development, test ideas and understand how applications work.
 
-Acredito que a melhor forma de evoluir é praticando: criar, encontrar problemas, corrigir e tentar fazer melhor na próxima versão.
+Most of my current work is focused on web development. I'm also interested in APIs, databases, automation, robotics and interactive applications.
 
-## 🛠️ Tecnologias
+Outside programming, I play football.
 
-**Tenho praticado e estudado:**
+## Technologies
+
+**Currently studying and practising**
 
 <div align="left">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -42,45 +34,46 @@ Acredito que a melhor forma de evoluir é praticando: criar, encontrar problemas
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
-**Também quero aprofundar meus conhecimentos em:**
-- Integração e consumo de APIs;
-- Backend e bancos de dados;
-- Inteligência artificial;
-- Arduino e projetos de robótica.
+**Topics I want to explore further**
+- API integration
+- Backend development and databases
+- Artificial intelligence
+- Arduino and robotics
 
-## 🚀 Projetos em destaque
+## Selected projects
 
-### 📦 Controle de Estoque
+### Inventory Control
 
-Projeto para organizar e acompanhar produtos de um estoque, com foco em praticidade e facilidade de uso.
+A project for organising supermarket products and keeping track of stock.
 
-- 🌐 [Abrir aplicação](https://sgdavi488-cell.github.io/controle-estoque/)
-- 💻 [Ver repositório](https://github.com/sgdavi488-cell/controle-estoque)
+- [Open the application](https://sgdavi488-cell.github.io/controle-estoque/)
+- [Repository](https://github.com/sgdavi488-cell/controle-estoque)
 
-### 💰 Finance Control
+### Finance Control
 
-Painel financeiro para registrar entradas e despesas, acompanhar o saldo do mês e visualizar a movimentação em um só lugar.
+A simple dashboard for recording income and expenses and checking monthly balances. It can be used for personal finances or basic small-business tracking.
 
-- 🌐 [Abrir aplicação](https://sgdavi488-cell.github.io/finance-control/)
-- 💻 [Ver repositório](https://github.com/sgdavi488-cell/finance-control)
+- [Open the application](https://sgdavi488-cell.github.io/finance-control/)
+- [Repository](https://github.com/sgdavi488-cell/finance-control)
 
-### 🍽️ Cardápio Digital — Maison
+### Digital Menu — Maison
 
-Um cardápio online para restaurantes, com categorias, busca, filtros, sacola interativa e preparação do pedido pelo WhatsApp.
+A restaurant menu project that I first developed during a programming course and later decided to rebuild. It includes menu categories, search, filters and an interactive cart, with order details prepared for WhatsApp.
 
-- 🌐 [Conhecer o cardápio](https://sgdavi488-cell.github.io/cardapio-digital/)
-- 💻 [Ver repositório](https://github.com/sgdavi488-cell/cardapio-digital)
+- [Open the menu](https://sgdavi488-cell.github.io/cardapio-digital/)
+- [Repository](https://github.com/sgdavi488-cell/cardapio-digital)
 
-## 📚 No momento
+### Brasil Rush 3D
 
-Estou focado em melhorar minha base de desenvolvimento web e entender melhor como as partes de uma aplicação se conectam — do visual até a lógica e a integração com serviços.
+An endless-runner game project based on the general idea of games such as Subway Surfers. The goal is to build a 3D running game with a Brazilian theme.
 
-## 🤝 Vamos nos conectar?
+- [Open the project](https://sgdavi488-cell.github.io/subway/)
+- [Repository](https://github.com/sgdavi488-cell/subway)
 
-Se você também gosta de tecnologia, programação e de criar projetos, fique à vontade para conhecer meus repositórios!
+## Current focus
 
-<div align="center">
+I'm working on the fundamentals of web development and learning how interface design, application logic and external services fit together. I usually learn by building something, finding what needs improvement and revising the code.
 
-**Valeu por visitar meu perfil!** 💚
+## Contact
 
-</div>
+You can explore my repositories and follow the progress of my projects here on GitHub.
