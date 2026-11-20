@@ -38,3 +38,9 @@ Construir aplicações úteis e criativas.
 [🌐 Acessar o site](https://sgdavi488-cell.github.io/controle-estoque/) · [💻 Ver código-fonte no GitHub](https://github.com/sgdavi488-cell/controle-estoque)
 
 ⭐ Obrigado por visitar meu perfil!
+
+### Cardápio Digital — Maison
+
+Uma experiência de restaurante com menu interativo, filtros, busca, sacola e pedidos pelo WhatsApp.
+
+[🌐 Acessar o cardápio](https://sgdavi488-cell.github.io/cardapio-digital/) · [💻 Ver código-fonte no GitHub](https://github.com/sgdavi488-cell/cardapio-digital)
